@@ -11,7 +11,7 @@ namespace QRCodeExample
     {
         static void Main(string[] args)
         {
-            string qrText = "https://example.com";
+            string qrText = "https://sammarks.com";
             SKBitmap qrCodeImage = GenerateQRCodeImage(qrText);
 
             // Save as PNG
