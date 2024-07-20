@@ -1,0 +1,78 @@
+# Compiled object files, libraries, executables, etc.
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio 2019
+.vs/
+
+# Rider
+.idea/
+
+# Uncomment if you have tasks that create the following files, and do not wish to check them into version control.
+# project.lock.json
+# project.fragment.lock.json
+
+# Uncomment if you have added the new ProjectScaffold, and do not wish to check them into version control.
+# .fake/
+# .paket/
+# .packet/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+*.dll
+*.exe
+*.js
+*.min.js
+*.css
+*.min.css
+*.pdb
+*.mdb
+*.log
+*.stackdump
+*.pidb
+*.svclog
+*.sublime-project
+*.sublime-workspace
+*.sou
+*.opendb
+*.swp
+*.lock.json
+
+# Npm/Yarn
+node_modules/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
